@@ -36,4 +36,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/2091-removing-minimum-and-maximum-from-array) |
+## Database
+|  |
+| ------- |
+| [0620-not-boring-movies](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/0620-not-boring-movies) |
 <!---LeetCode Topics End-->
