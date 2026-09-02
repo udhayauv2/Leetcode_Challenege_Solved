@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/0198-house-robber) |
+| [0238-product-of-array-except-self](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/0238-product-of-array-except-self) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Simulation
@@ -45,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/0198-house-robber) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
