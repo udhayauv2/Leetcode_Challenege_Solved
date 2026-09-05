@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/0042-trapping-rain-water) |
 | [0198-house-robber](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/0198-house-robber) |
 | [0238-product-of-array-except-self](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/0238-product-of-array-except-self) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/0042-trapping-rain-water) |
 | [0198-house-robber](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/0198-house-robber) |
 ## Prefix Sum
 |  |
@@ -54,4 +56,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3136-valid-word](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/3136-valid-word) |
+## Two Pointers
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/0042-trapping-rain-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
