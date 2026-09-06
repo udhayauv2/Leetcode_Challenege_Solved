@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/0006-zigzag-conversion) |
 | [3136-valid-word](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/3136-valid-word) |
 ## Two Pointers
 |  |
