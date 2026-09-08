@@ -6,7 +6,6 @@ class Solution {
         }
         if(num <= 100000){
             count += num - 999;
-            
             return count;
         }
         return count;
