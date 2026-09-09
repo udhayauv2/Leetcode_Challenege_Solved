@@ -8,19 +8,19 @@ class Solution {
         }
 
         if (num >= 1000000) {
-            count += (num - 999999) * 1;
+            count += (num - 999999);
         }
 
         if (num >= 1000000000) {
-            count += (num - 999999999) * 1;
+            count += (num - 999999999);
         }
 
         if (num >= 1000000000000L) {
-            count += (num - 999999999999L) * 1;
+            count += (num - 999999999999L);
         }
 
         if (num >= 1000000000000000L) {
-            count += (num - 999999999999999L) * 1;
+            count += (num - 999999999999999L);
         }
 
         return count;
