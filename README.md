@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/0560-subarray-sum-equals-k) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/3483-unique-3-digit-even-numbers) |
 ## Simulation
 |  |
 | ------- |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/0217-contains-duplicate) |
 | [0560-subarray-sum-equals-k](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/0560-subarray-sum-equals-k) |
+| [3483-unique-3-digit-even-numbers](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/3483-unique-3-digit-even-numbers) |
 ## Sorting
 |  |
 | ------- |
@@ -95,4 +97,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/0061-rotate-list) |
+## Recursion
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/3483-unique-3-digit-even-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
