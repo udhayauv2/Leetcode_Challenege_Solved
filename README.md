@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/0042-trapping-rain-water) |
+| [0088-merge-sorted-array](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/0217-contains-duplicate) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/0061-rotate-list) |
+| [0088-merge-sorted-array](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/0088-merge-sorted-array) |
 ## Stack
 |  |
 | ------- |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/0217-contains-duplicate) |
 ## Linked List
 |  |
