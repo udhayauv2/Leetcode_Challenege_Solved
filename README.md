@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/0006-zigzag-conversion) |
+| [0290-word-pattern](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/0290-word-pattern) |
 | [3136-valid-word](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/3136-valid-word) |
 ## Two Pointers
 |  |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/0217-contains-duplicate) |
+| [0290-word-pattern](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/0290-word-pattern) |
 | [0560-subarray-sum-equals-k](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/0560-subarray-sum-equals-k) |
 | [3483-unique-3-digit-even-numbers](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/3483-unique-3-digit-even-numbers) |
 ## Sorting
