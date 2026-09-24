@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/0198-house-robber) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/0055-jump-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Database
 |  |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/0198-house-robber) |
 ## Prefix Sum
