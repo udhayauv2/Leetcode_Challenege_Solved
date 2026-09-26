@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/0560-subarray-sum-equals-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/3483-unique-3-digit-even-numbers) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0006-zigzag-conversion](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/0006-zigzag-conversion) |
 | [0290-word-pattern](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/0290-word-pattern) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3136-valid-word](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/3136-valid-word) |
 | [3498-reverse-degree-of-a-string](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/3498-reverse-degree-of-a-string) |
 ## Two Pointers
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/0217-contains-duplicate) |
 | [0290-word-pattern](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/0290-word-pattern) |
 | [0560-subarray-sum-equals-k](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/0560-subarray-sum-equals-k) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3483-unique-3-digit-even-numbers](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/3483-unique-3-digit-even-numbers) |
 ## Sorting
 |  |
