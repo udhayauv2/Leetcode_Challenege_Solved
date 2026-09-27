@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0006-zigzag-conversion](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/0006-zigzag-conversion) |
 | [0290-word-pattern](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/0290-word-pattern) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3136-valid-word](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/3136-valid-word) |
 | [3498-reverse-degree-of-a-string](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/3498-reverse-degree-of-a-string) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/0042-trapping-rain-water) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -144,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/0374-guess-number-higher-or-lower) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
