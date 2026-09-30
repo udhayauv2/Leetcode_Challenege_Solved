@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/0006-zigzag-conversion) |
+| [0032-longest-valid-parentheses](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/0032-longest-valid-parentheses) |
 | [0290-word-pattern](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/0290-word-pattern) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/0042-trapping-rain-water) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -151,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/0032-longest-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
