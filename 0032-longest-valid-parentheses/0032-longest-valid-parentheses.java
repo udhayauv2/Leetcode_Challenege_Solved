@@ -4,7 +4,6 @@ class Solution {
         st.push(-1);
 
         int ans = 0;
-
         for (int i = 0; i < s.length(); i++) {
             if (s.charAt(i) == '(') {
                 st.push(i);
@@ -13,7 +12,7 @@ class Solution {
 
                 if (st.isEmpty()) {
                     st.push(i);
-                } else {
+                }else{
                     ans = Math.max(ans, i - st.peek());
                 }
             }
