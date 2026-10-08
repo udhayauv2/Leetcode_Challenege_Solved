@@ -1,59 +1,54 @@
 class Solution {
+
+    public static int maxlen; 
     public List<String> removeInvalidParentheses(String s) {
-        List<String> ans = new ArrayList<>();
-        Queue<String> q = new LinkedList<>();
-        Set<String> seen = new HashSet<>();
-
-        q.offer(s);
-        seen.add(s);
-
-        while (!q.isEmpty()) {
-            int size = q.size();
-
-            for (int j = 0; j < size; j++) {
-                String cur = q.poll();
-
-                if (isValid(cur)) {
-                    ans.add(cur);
-                }
-
-                if (!ans.isEmpty()) {
-                    continue;
-                }
-
-                for (int i = 0; i < cur.length(); i++) {
-                    if (cur.charAt(i) != '(' && cur.charAt(i) != ')')
-                        continue;
-
-                    String next = cur.substring(0, i) + cur.substring(i + 1);
-
-                    if (seen.add(next)) {
-                        q.offer(next);
-                    }
-                }
-            }
-
-            if (!ans.isEmpty())
-                break;
-        }
-
-        return ans;
+        
+        maxlen = 0;
+        int ind = 0;
+        Set<String> set = new HashSet<>();
+        StringBuilder sb = new StringBuilder();
+        set.add("");
+        rec(ind , s ,set , 0 , sb);
+        return new ArrayList<>(set);
     }
 
-    private boolean isValid(String s) {
-        int balance = 0;
 
-        for (char ch : s.toCharArray()) {
-            if (ch == '(') {
-                balance++;
-            } else if (ch == ')') {
-                balance--;
+    public static void rec(int ind , String s , Set<String> set , int count , StringBuilder sb){
+        if(ind == s.length()) {
+            if(count == 0){
+                if(sb.length() > maxlen){
+                    maxlen = sb.length();
+                    set.clear();
+                    set.add(sb.toString());
+
+                }else if(sb.length() == maxlen){
+                    set.add(sb.toString());
+                }
             }
-
-            if (balance < 0)
-                return false;
+            return;
         }
 
-        return balance == 0;
+
+        if(s.charAt(ind) == '('){
+            sb.append('(');
+            rec(ind+1 , s , set, count + 1 , sb); 
+            sb.deleteCharAt(sb.length()-1);   
+            rec(ind+1 , s , set , count  , sb); 
+
+        }else if(s.charAt(ind) == ')'){
+            
+            if(count > 0){
+                sb.append(')');
+                rec(ind+1 , s , set , count - 1 , sb);
+                sb.deleteCharAt(sb.length()-1);
+                
+            }
+            rec(ind+1 , s , set  , count  , sb); 
+              
+        }else{
+            sb.append(s.charAt(ind));
+            rec(ind+1 , s , set , count , sb);
+            sb.deleteCharAt(sb.length()-1); 
+        }        
     }
 }
