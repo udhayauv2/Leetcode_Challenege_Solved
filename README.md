@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/0035-search-insert-position) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/0006-zigzag-conversion) |
+| [0014-longest-common-prefix](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/0032-longest-valid-parentheses) |
 | [0290-word-pattern](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/0290-word-pattern) |
@@ -182,4 +184,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/0301-remove-invalid-parentheses) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
