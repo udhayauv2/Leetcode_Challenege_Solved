@@ -13,11 +13,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/0104-maximum-depth-of-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/0301-remove-invalid-parentheses) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
 |  |
 | ------- |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Simulation
 |  |
 | ------- |
@@ -168,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Interactive
 |  |
 | ------- |
@@ -190,4 +194,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/0014-longest-common-prefix) |
+## Union-Find
+|  |
+| ------- |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 <!---LeetCode Topics End-->
