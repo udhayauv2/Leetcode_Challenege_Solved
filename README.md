@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/0238-product-of-array-except-self) |
 | [0496-next-greater-element-i](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/0560-subarray-sum-equals-k) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/0290-word-pattern) |
 | [0496-next-greater-element-i](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/0560-subarray-sum-equals-k) |
@@ -198,4 +200,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
