@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2409-count-days-spent-together](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/2409-count-days-spent-together) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/3870-count-commas-in-range) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3483-unique-3-digit-even-numbers](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
