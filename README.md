@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/0560-subarray-sum-equals-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/0344-reverse-string) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Stack
 |  |
 | ------- |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/0217-contains-duplicate) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Linked List
 |  |
 | ------- |
@@ -175,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/0374-guess-number-higher-or-lower) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Matrix
 |  |
 | ------- |
