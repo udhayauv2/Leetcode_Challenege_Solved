@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3870-count-commas-in-range](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/3871-count-commas-in-range-ii) |
 ## Array
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Database
 |  |
 | ------- |
