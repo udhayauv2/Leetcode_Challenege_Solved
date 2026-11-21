@@ -7,11 +7,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
@@ -19,11 +21,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/0301-remove-invalid-parentheses) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Math
 |  |
@@ -237,4 +241,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/0225-implement-stack-using-queues) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/0783-minimum-distance-between-bst-nodes) |
 <!---LeetCode Topics End-->
