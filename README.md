@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [1352-product-of-the-last-k-numbers](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/1352-product-of-the-last-k-numbers) |
 | [2409-count-days-spent-together](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/2409-count-days-spent-together) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/0560-subarray-sum-equals-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1352-product-of-the-last-k-numbers](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/0560-subarray-sum-equals-k) |
+| [1352-product-of-the-last-k-numbers](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/1352-product-of-the-last-k-numbers) |
 ## String
 |  |
 | ------- |
@@ -238,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/0225-implement-stack-using-queues) |
+| [1352-product-of-the-last-k-numbers](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/1352-product-of-the-last-k-numbers) |
 ## Queue
 |  |
 | ------- |
@@ -246,4 +250,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/0783-minimum-distance-between-bst-nodes) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
