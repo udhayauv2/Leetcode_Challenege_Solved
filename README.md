@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/0560-subarray-sum-equals-k) |
 | [1352-product-of-the-last-k-numbers](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/1352-product-of-the-last-k-numbers) |
+| [1422-maximum-score-after-splitting-a-string](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/1422-maximum-score-after-splitting-a-string) |
 ## String
 |  |
 | ------- |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1422-maximum-score-after-splitting-a-string](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/2124-check-if-all-as-appears-before-all-bs) |
