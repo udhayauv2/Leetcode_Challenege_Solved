@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1352-product-of-the-last-k-numbers](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/1352-product-of-the-last-k-numbers) |
 | [2409-count-days-spent-together](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/2409-count-days-spent-together) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3360-stone-removal-game](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/3360-stone-removal-game) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/3789-minimum-cost-to-acquire-required-items) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3360-stone-removal-game](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/udhayauv2/Leetcode_Challenege_Solved/tree/master/3498-reverse-degree-of-a-string) |
 ## Greedy
 |  |
